@@ -5,6 +5,6 @@ permalink: /chotto-motto-yuzu-hot-sauce/index.html
 eleventyNavigation:
   order: 40
   parent: condiments
-  key: chotto motto yuzu hot sauce
+  key: CHOTTO MOTTO YUZU HOT SAUCE
 ---
 Combining mild green chillies, yuzu, pepper and the citrus kick of yuzu to create a one of a kind hot sauce
